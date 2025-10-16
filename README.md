@@ -1,3 +1,3 @@
 # CollegeWriteUps
 
-This is where I post all of my coursework while I'm in school. Both for my perosnal notes and for other to see what I have accomplished.
+This is where I post all of my coursework while I'm in University. Both for my personal notes and for other to see what I have accomplished.
