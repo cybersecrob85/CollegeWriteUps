@@ -1,0 +1,4 @@
+Green Valley Grocers Price Checker Receipt:
+The apple is $0.99
+The price for banana is not available.
+The lobster is $15.00
