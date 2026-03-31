@@ -42,3 +42,9 @@ The course emphasized professional documentation, research-backed decision makin
 - Technical research and proposal writing
 - Project report formatting and professional communication
 - Certification and career path awareness
+
+## 🎬 Final Presentation
+
+Watch the final project presentation for this course on YouTube:
+
+[![Final Presentation](https://img.youtube.com/vi/tc_9FWGpbDM/0.jpg)](https://youtu.be/tc_9FWGpbDM)
