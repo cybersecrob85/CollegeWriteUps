@@ -3,7 +3,7 @@
 **Student:** Robert Potter | Office Networks and Security Wizards LLC.
 **Institution:** Full Sail University — A.S. Information Technology (expected June 2026) → B.S. Cybersecurity (in progress)
 **GPA:** 3.98 | Course Director's Award — January 2026
-**Contact:** cybersec.rob85@gmail.com | [LinkedIn](http://www.linkedin.com/in/robertpotterthesecuritywizard)
+**Contact:** [robert@robertpotter.dev](mailto:robert@robertpotter.dev) | [LinkedIn](http://www.linkedin.com/in/robertpotterthesecuritywizard)
 
 ---
 
